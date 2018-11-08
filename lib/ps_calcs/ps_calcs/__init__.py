@@ -12,10 +12,10 @@
 
 __version__ = '1.0.0'
 
-# from .complexity import complexity
+from .complexity import complexity
 from .rca import rca
-# from .density import density
-# from .distance import distance
+from .density import density
+from .distance import distance
 from .proximity import proximity
 # from .opportunity_gain import opportunity_gain
 # from .mhat import mhat
