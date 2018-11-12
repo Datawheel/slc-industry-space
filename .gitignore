@@ -3,3 +3,5 @@
 
 # ignore data files because they're too big
 data
+
+.ipynb_checkpoints/
